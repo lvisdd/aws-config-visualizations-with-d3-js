@@ -4,8 +4,25 @@
   },
   "plugins": ["autocover"],
     "pluginsConfig": {
-    "autocover": {
-    // Configuration for autocover (see below) 
+      "autocover": {
+      "title": "AWS Config Visualizations with D3.js",
+      "author": "@k_kanou",
+      "pluginsConfig": {
+          "autocover": {
+              "font": {
+                  "size": null,
+                  "family": "IPAGothic",
+                  "color": "#FFF"
+              },
+              "size": {
+                  "w": 1800,
+                  "h": 2360
+              },
+              "background": {
+                  "color": "#09F"
+              }
+          }
+      }
     }
   }
 }
