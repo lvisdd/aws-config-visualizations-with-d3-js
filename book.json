@@ -1,7 +1,7 @@
 {
   "pdf": {
     "fontFamily": "IPAGothic"
-  }
+  },
   "plugins": ["autocover"],
     "pluginsConfig": {
     "autocover": {
