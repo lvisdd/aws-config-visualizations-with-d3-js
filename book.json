@@ -5,21 +5,21 @@
   "plugins": ["autocover"],
     "pluginsConfig": {
       "autocover": {
-      "title": "AWS Config Visualizations with D3.js",
+      "title": "AWS Config Visualizations with D3.js",
       "author": "@k_kanou",
       "pluginsConfig": {
           "autocover": {
               "font": {
                   "size": null,
                   "family": "IPAGothic",
-                  "color": "#000"
+                  "color": "#FFF"
               },
               "size": {
                   "w": 1800,
                   "h": 2360
               },
               "background": {
-                  "color": "#FFF"
+                  "color": "#09F"
               }
           }
       }
