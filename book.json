@@ -8,17 +8,8 @@
     "pluginsConfig": {
       "autocover": {
         "font": {
-          "size": null,
           "family": "IPAGothic",
-          "color": "#000"
         },
-        "size": {
-          "w": 1800,
-          "h": 2360
-        },
-        "background": {
-          "color": "#FFF"
-        }
       }
     }
 }
