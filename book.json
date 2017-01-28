@@ -8,7 +8,7 @@
     "pluginsConfig": {
       "autocover": {
         "font": {
-          "family": "IPAGothic",
+          "family": "IPAGothic"
         }
       }
     }
