@@ -1,24 +1,24 @@
 {
-  "title": "AWSのシステム構成をD3.jsで可視化する",
-  "author": "@k_kanou",
   "pdf": {
     "fontFamily": "IPAGothic"
   },
   "plugins": ["autocover"],
     "pluginsConfig": {
       "autocover": {
-      "font": {
-        "size": null,
-        "family": "IPAGothic",
-        "color": "#000"
-      },
-      "size": {
-        "w": 1800,
-        "h": 2360
-      },
-      "background": {
-        "color": "#FFF"
+        "title": "AWSのシステム構成をD3.jsで可視化する",
+        "author": "@k_kanou",
+        "font": {
+          "size": null,
+          "family": "IPAGothic",
+          "color": "#000"
+        },
+        "size": {
+          "w": 1800,
+          "h": 2360
+        },
+        "background": {
+          "color": "#FFF"
+        }
       }
     }
-  }
 }
