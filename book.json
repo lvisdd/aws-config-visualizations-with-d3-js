@@ -5,7 +5,7 @@
   "plugins": ["autocover"],
     "pluginsConfig": {
       "autocover": {
-      "title": "AWSのシステム構成をD3.jsで可視化する",
+      "title": "AWS Config Visualizations with D3.js",
       "author": "@k_kanou",
       "pluginsConfig": {
           "autocover": {
