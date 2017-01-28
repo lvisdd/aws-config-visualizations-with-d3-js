@@ -3,10 +3,10 @@
     "fontFamily": "IPAGothic"
   },
   "plugins": ["autocover"],
+    "title": "AWSのシステム構成をD3.jsで可視化する",
+    "author": "@k_kanou",
     "pluginsConfig": {
       "autocover": {
-        "title": "AWSのシステム構成をD3.jsで可視化する",
-        "author": "@k_kanou",
         "font": {
           "size": null,
           "family": "IPAGothic",
